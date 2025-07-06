@@ -1,6 +1,6 @@
 # Bootstrap 5 Wellness Blog
 
-![Blog Preview](screenshot.png)
+![Blog Preview]() 
 
 A responsive, modern blog template built with Bootstrap 5 featuring a calming aqua/teal color palette.
 
