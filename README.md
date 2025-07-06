@@ -1,6 +1,6 @@
 # Bootstrap 5 Wellness Blog
 
-![Blog Preview](https://malavika-5.github.io/blog_layout/) 
+[Blog Preview](https://malavika-5.github.io/blog_layout/) 
 
 A responsive, modern blog template built with Bootstrap 5 featuring a calming aqua/teal color palette.
 
